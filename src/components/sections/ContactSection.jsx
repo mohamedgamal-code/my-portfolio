@@ -22,7 +22,7 @@ export const ContactSection = () => {
   const { toast } = useToast();
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  // منطق التعامل مع ضغطة الإيميل الذكية (موبايل vs كمبيوتر)
+  
   const handleEmailClick = (e) => {
     e.preventDefault();
     const email = "mohamed.gamalcode@gmail.com";
