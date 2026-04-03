@@ -7,11 +7,11 @@
 ### An earlier version of my personal portfolio
 
 <p align="center">
-  <a href="https://your-old-portfolio-link.vercel.app">
+  <a href="https://mohamed-gamal-space.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/secongweel/old-portfolio-repo">
+  <a href="https://github.com/Mohamed-Gamal-code/my-portfolio">
     <img src="https://img.shields.io/badge/💻_Source_Code-111?style=for-the-badge" />
   </a>
 </p>
@@ -48,6 +48,36 @@ While it is no longer actively maintained, it represents an important step in my
 
 ---
 
+## 🖼️ Screenshots
+
+<div align="center">
+
+### 🏠 Home
+
+<p align="center">
+  <img src="./public/screenshots/home.png" width="800" />
+</p>
+
+### 💼 Projects
+
+<p align="center">
+  <img src="./public/screenshots/projects.png" width="800" />
+</p>
+### 🛠️ Skills
+
+<p align="center">
+  <img src="./public/screenshots/skills.png" width="800" />
+</p>
+
+
+### 📬 Contact
+<p align="center">
+  <img src="./public/screenshots/contact.png" width="800" />
+</p>
+
+---
+
+</div>
 ## ✨ Features
 
 - Responsive design
@@ -73,7 +103,7 @@ While it is no longer actively maintained, it represents an important step in my
 
 ```bash
 # Clone the repository
-git clone https://github.com/secongweel/old-portfolio-repo.git
+git clone https://github.com/Mohamed-Gamal-code/my-portfolio
 
 # Navigate to project
 cd old-portfolio-repo
