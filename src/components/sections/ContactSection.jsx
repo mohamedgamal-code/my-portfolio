@@ -161,7 +161,7 @@ export const ContactSection = () => {
               </h4>
               <div className="flex items-center gap-6 justify-start">
                 <a
-                  href="https://github.com/Mohamed-Gamal-code"
+                  href="https://github.com/mohamedgamal-code"
                   target="_blank"
                   rel="noreferrer"
                   className="text-muted-foreground hover:text-primary transition-all duration-300 transform hover:-translate-y-1"

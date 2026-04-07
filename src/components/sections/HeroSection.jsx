@@ -11,7 +11,7 @@ export const HeroSection = () => {
       {/* --- روابط السوشيال ميديا (مكان جديد ومميز على الشمال) --- */}
       <div className="absolute left-6 bottom-10 hidden md:flex flex-col items-center gap-6 z-20 animate-fade-in-delay-4 opacity-0 [animation-fill-mode:forwards]">
         <a
-          href="https://github.com/Mohamed-Gamal-code"
+          href="https://github.com/mohamedgamal-code"
           target="_blank"
           className="text-zinc-400 hover:text-violet-600 dark:hover:text-violet-400 transition-all hover:-translate-y-1 hover:scale-110"
         >

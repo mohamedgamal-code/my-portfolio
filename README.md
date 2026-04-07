@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/🌐_Live_Demo-000?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Mohamed-Gamal-code/my-portfolio">
+  <a href="https://github.com/mohamedgamal-code/my-portfolio">
     <img src="https://img.shields.io/badge/💻_Source_Code-111?style=for-the-badge" />
   </a>
 </p>
@@ -44,7 +44,7 @@ While it is no longer actively maintained, it represents an important step in my
 
 ## 🚀 Live Demo
 
-👉 https://mohamed-gamal-portfolio-alpha.vercel.app
+👉 https://mohamedgamal-portfolio.vercel.app
 
 ---
 
@@ -103,7 +103,7 @@ While it is no longer actively maintained, it represents an important step in my
 
 ```bash
 # Clone the repository
-git clone https://github.com/Mohamed-Gamal-code/my-portfolio
+git clone https://github.com/mohamedgamal-code/my-portfolio
 
 # Navigate to project
 cd old-portfolio-repo
@@ -122,6 +122,6 @@ This project represents the beginning of my journey — and every line of code h
 
 <br/>
 
-Made with ❤️ by [Mohamed Gamal](https://github.com/Mohamed-Gamal-code)
+Made with ❤️ by [Mohamed Gamal](https://github.com/mohamedgamal-code)
 
 </div>

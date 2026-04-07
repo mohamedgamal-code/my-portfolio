@@ -6,10 +6,10 @@ import Logo from "./Logo";
 import { cn } from "@/lib/utils";
 
 export const Footer = () => {
-  const currentYear = new Date().getFullYear();
+  
 
   const socialLinks = [
-    { icon: <Github size={20} />, href: "https://github.com/Mohamed-Gamal-code", label: "Github" },
+    { icon: <Github size={20} />, href: "https://github.com/mohamedgamal-code", label: "Github" },
     { icon: <Linkedin size={20} />, href: "https://www.linkedin.com/in/mohamed-gamal-code/", label: "LinkedIn" },
     { icon: <Mail size={20} />, href: "mailto:mohamed.gamalcode@gmail.com", label: "Email" },
   ];

@@ -17,8 +17,8 @@ const projects = [
       "Shadcn UI",
       "Full-Stack",
     ],
-    demoUrl: "https://medicare-platform-gamma.vercel.app/",
-    githubUrl: "https://github.com/Mohamed-Gamal-code/doc-connect",
+    demoUrl: "https://medicare-well.vercel.app/",
+    githubUrl: "https://github.com/mohamedgamal-code/doc-connect",
   },
   {
     id: 2,
@@ -34,8 +34,8 @@ const projects = [
       "Full-Stack",
       "Stripe",
     ],
-    demoUrl: "https://ecommerce-frontend-alpha-gray.vercel.app/",
-    githubUrl: "https://github.com/ahmedalioo22mm-boop/ecommerce-frontend",
+    demoUrl: "https://ecommerce-expert.vercel.app/",
+    githubUrl: "https://github.com/mohamedgamal-code/ecommerce-frontend",
   },
   {
     id: 3,
@@ -51,8 +51,8 @@ const projects = [
       "App Router",
       "Server Actions",
     ],
-    demoUrl: "https://luxestay-guest-platform.vercel.app",
-    githubUrl: "https://github.com/Mohamed-Gamal-code/luxestay-guest-experience",
+    demoUrl: "https://luxestay-booking.vercel.app/",
+    githubUrl: "https://github.com/mohamedgamal-code/luxestay-guest-experience",
   },
 ];
 
@@ -145,7 +145,7 @@ export const ProjectsSection = () => {
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/Mohamed-Gamal-code"
+            href="https://github.com/mohamedgamal-code"
           >
             Check My Github <ArrowRight size={16} />
           </a>
